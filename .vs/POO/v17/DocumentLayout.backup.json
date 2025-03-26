@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\poo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|solutionrelative:poo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|solutionrelative:poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 558,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Livro.cs",
+              "RelativeDocumentMoniker": "POO\\Livro.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Livro.cs",
+              "RelativeToolTip": "POO\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:43:04.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Carro.cs",
+              "RelativeDocumentMoniker": "POO\\Carro.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Carro.cs",
+              "RelativeToolTip": "POO\\Carro.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:04:08.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:46:31.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
