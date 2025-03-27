@@ -12,3 +12,4 @@ C:\Users\Fic\Documents\VS 2022\POO\POO\obj\Debug\net9.0\refint\POO.dll
 C:\Users\Fic\Documents\VS 2022\POO\POO\obj\Debug\net9.0\POO.pdb
 C:\Users\Fic\Documents\VS 2022\POO\POO\obj\Debug\net9.0\POO.genruntimeconfig.cache
 C:\Users\Fic\Documents\VS 2022\POO\POO\obj\Debug\net9.0\ref\POO.dll
+C:\Users\Fic\Documents\VS 2022\POO\POO\obj\Debug\net9.0\POO.sourcelink.json

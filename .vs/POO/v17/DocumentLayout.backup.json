@@ -7,12 +7,23 @@
       "RelativeMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\poo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|solutionrelative:poo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\poo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|solutionrelative:poo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fic\\Documents\\VS 2022\\EstruturaRepeticao\\Curso-SENAI02\\Aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|solutionrelative:poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\poo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|solutionrelative:poo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\poo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|solutionrelative:poo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +33,69 @@
       "DocumentGroups": [
         {
           "DockedHeight": 558,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aula.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\EstruturaRepeticao\\Curso-SENAI02\\Aula.cs",
+              "RelativeDocumentMoniker": "..\\EstruturaRepeticao\\Curso-SENAI02\\Aula.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\EstruturaRepeticao\\Curso-SENAI02\\Aula.cs",
+              "RelativeToolTip": "..\\EstruturaRepeticao\\Curso-SENAI02\\Aula.cs",
+              "ViewState": "AgIAACABAAAAlcdM5NolwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:39:39.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Produto.cs",
+              "RelativeDocumentMoniker": "POO\\Produto.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Produto.cs",
+              "RelativeToolTip": "POO\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:37:20.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Aluno.cs",
+              "RelativeDocumentMoniker": "POO\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Aluno.cs",
+              "RelativeToolTip": "POO\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:30:53.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Livro.cs",
               "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Livro.cs",
               "RelativeDocumentMoniker": "POO\\Livro.cs",
               "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Livro.cs",
               "RelativeToolTip": "POO\\Livro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T00:43:04.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Carro.cs",
               "RelativeDocumentMoniker": "POO\\Carro.cs",
               "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Carro.cs",
               "RelativeToolTip": "POO\\Carro.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T00:04:08.309Z",
               "EditorCaption": ""
@@ -58,7 +108,7 @@
               "RelativeDocumentMoniker": "POO\\Program.cs",
               "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Program.cs",
               "RelativeToolTip": "POO\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T22:46:31.986Z",
               "EditorCaption": ""
