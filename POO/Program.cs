@@ -13,7 +13,6 @@
 //}
 
 //listasDeNomes.Remove("leinaD");
-///
 //// POO - Programacao Orientada a Objetos
 
 //// Objetivo - Aproximar a programcao do mundo real
@@ -40,7 +39,8 @@
 //// Abstracao e polimorfismo
 
 //// protected/internal - Esse atributo/metodo/classes so pode ser acessado por ele mesmo e por sua classe pai
-///
+
+
 //// Exemplo de POO
 //using POO;
 
@@ -73,8 +73,7 @@
 //carros.Add(carro1); 
 //carros.Add(carro2);
 //carros.Add(carro3);
-///
-//// Exercicios 25/03 e 26/03
+//// Exercicios 25/03
 
 //// Exercicio 01 - Crie uma classe chamada `Livro` com os seguintes atributos:
 ////- `titulo` (tipo `string`)
@@ -135,3 +134,54 @@
 //Console.WriteLine();
 //Console.Write($"O valor total do {produto1.nome} e: ");
 //Console.WriteLine(produto1.CalcularTotal());
+
+//// Exercicios 26/03
+
+//// Exercicio 01 - Classe ContaBancaria
+////Crie uma classe chamada `ContaBancaria` que tenha:
+////-Um atributo privado `_saldo` (com valor padrão de 0).
+////- Um método público `Depositar(double valor)`, que adiciona um valor ao saldo.
+////- Um método público `Sacar(double valor)`, que subtrai um valor do saldo (se houver saldo suficiente).
+////- Um método público `VerSaldo()`, que retorna o saldo atual.
+////Crie um objeto dessa classe e faça algumas operações de depósito e saque.
+
+//using POO;
+
+//ContaBancaria contaBancaria = new ContaBancaria();
+//contaBancaria.Depositar();
+//contaBancaria.VerSaldo();
+//contaBancaria.Sacar();
+//contaBancaria.VerSaldo();
+
+//// exercicio 02 - Classe Funcionario
+////Crie uma classe `Funcionario` com:
+////-Um atributo privado `_salario`.
+////- Métodos `SetSalario(valor)` e `GetSalario()`
+////    - **SetSalario** → Modifica o salario com o valor fornecido pelo usuario
+////    - **GetSalario** → Retorna o Salario
+////Crie um objeto, defina um salário e exiba o valor usando `GetSalario()`.
+//using POO;
+
+//Funcionario funcionario = new Funcionario();
+//funcionario.SetSalario();
+//funcionario.GetSalario();
+
+//// Exercicio 03 - Classe Retangulo
+////Crie uma classe `Retangulo` com:
+////-Dois atributos privados `_largura` e `_altura`.
+////- Métodos `SetLargura(valor)`, `SetAltura(valor)`, `GetLargura()` e `GetAltura()`.
+////    - **SetLargura** → Modifica a _largura com o valor fornecido pelo usuario
+////    - **SetAltura** → Modifica a _altura com o valor fornecido pelo usuario
+////    - **GetLargura** → Retorna a Largura
+////   - **GetAltura** → Retorna a Altura
+////- Um método público `CalcularArea()`, que retorna a área do retângulo.
+////Crie um objeto, defina largura e altura, e exiba a área calculada.
+
+//using POO;
+
+//Retangulo retangulo = new Retangulo();
+//Console.Write("Escreva a Largura: ");
+//retangulo.SetLargura(double.Parse(Console.ReadLine()));
+//Console.Write("Escreva a Largura: ");
+//retangulo.SetAltura(double.Parse(Console.ReadLine()));
+//Console.Write($"A area desse retangulo e: {retangulo.CalcularArea()}");
