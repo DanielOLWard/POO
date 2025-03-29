@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace POO
+namespace Heranca.Pessoas
 {
-    class Livro
+    class Pessoa
     {
-        public string titulo;
-        public string autor;
-        public int pagina;
+        public string nome;
+        public int idade;
     }
 }

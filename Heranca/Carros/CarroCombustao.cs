@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Heranca
+namespace Heranca.Carros
 {
-    internal class Fisica:Pessoa 
+    class CarroCombustao : Carro
     {
-        public string CPF;
+        public string combustivel;
     }
 }

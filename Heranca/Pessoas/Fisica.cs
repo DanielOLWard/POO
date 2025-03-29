@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Heranca
+namespace Heranca.Pessoas
 {
-    class Pessoa
+    internal class Fisica : Pessoa
     {
-        public string nome;
-        public int idade;
+        public string CPF;
     }
 }

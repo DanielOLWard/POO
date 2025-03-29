@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Heranca
+namespace POO.ExerciciosdePOO
 {
-     class CarroCombustao : Carro
+    class Aluno
     {
-        public string combustivel;
+        public string nome;
+        public int idade;
+        public double notaFinal;
     }
 }

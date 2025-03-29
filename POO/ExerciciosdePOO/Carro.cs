@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 // Classe - Definicao (item da vida real representada em codigo)
 // Atributos (caracteriscas) - metodos (acoes)
 
-namespace POO
+namespace POO.Exercicios
 {
     class Carro
     {

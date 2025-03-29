@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace POO
+namespace POO.Funcionario
 {
-    internal class Funcionario
+    class Funcionario
     {
-        private double _salario;
+        protected double _salario;
 
-        public double SetSalario()
+        public double SetSalario(double salario)
         {
             Console.Write("Digite o valor que o funcionario ira receber esse mes: ");
-            double salario = double.Parse(Console.ReadLine());
+            salario = double.Parse(Console.ReadLine());
             return _salario += salario;
         }
 

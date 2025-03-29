@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Heranca
+namespace Heranca.Pessoas
 {
-     class Carro
+    class Juridica : Pessoas
     {
-        public string modelo;
-        public string marca;
-        public int quilometragem;
+        public string CNPJ;
     }
 }

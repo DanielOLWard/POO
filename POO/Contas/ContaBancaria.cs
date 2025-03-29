@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace POO
+namespace POO.Contas
 {
     internal class ContaBancaria
     {
-        private double _saldo;
+        protected double _saldo;
         public double Depositar()
         {
             Console.Write("Digite o valor a ser depositado: ");

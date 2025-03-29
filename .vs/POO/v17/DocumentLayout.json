@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\heranca\\pessoas\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|solutionrelative:heranca\\pessoas\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\heranca\\pessoas\\fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|solutionrelative:heranca\\pessoas\\fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\heranca\\pessoas\\juridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|solutionrelative:heranca\\pessoas\\juridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\heranca\\juridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|solutionrelative:heranca\\juridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\heranca\\carros\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carros\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|solutionrelative:heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\heranca\\carros\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carros\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\poo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|solutionrelative:poo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +38,93 @@
       "DocumentGroups": [
         {
           "DockedHeight": 558,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Juridica.cs",
-              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Juridica.cs",
-              "RelativeDocumentMoniker": "Heranca\\Juridica.cs",
-              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Juridica.cs",
-              "RelativeToolTip": "Heranca\\Juridica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T00:43:54.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Program.cs",
-              "RelativeDocumentMoniker": "Heranca\\Program.cs",
-              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Program.cs",
-              "RelativeToolTip": "Heranca\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T00:40:42.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Heranca\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Pessoa.cs",
-              "RelativeToolTip": "Heranca\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T00:40:41.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Retangulo.cs",
-              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Retangulo.cs",
-              "RelativeDocumentMoniker": "POO\\Retangulo.cs",
-              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Retangulo.cs",
-              "RelativeToolTip": "POO\\Retangulo.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T00:33:26.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Program.cs",
               "RelativeDocumentMoniker": "POO\\Program.cs",
               "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Program.cs",
               "RelativeToolTip": "POO\\Program.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAAALUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T00:33:17.387Z",
+              "WhenOpened": "2025-03-28T22:35:12.024Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Juridica.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Pessoas\\Juridica.cs",
+              "RelativeDocumentMoniker": "Heranca\\Pessoas\\Juridica.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Pessoas\\Juridica.cs",
+              "RelativeToolTip": "Heranca\\Pessoas\\Juridica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:47:36.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Pessoas\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Heranca\\Pessoas\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Pessoas\\Pessoa.cs",
+              "RelativeToolTip": "Heranca\\Pessoas\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:47:18.843Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fisica.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Pessoas\\Fisica.cs",
+              "RelativeDocumentMoniker": "Heranca\\Pessoas\\Fisica.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Pessoas\\Fisica.cs",
+              "RelativeToolTip": "Heranca\\Pessoas\\Fisica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:46:46.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca\\Program.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Program.cs",
+              "RelativeToolTip": "Heranca\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:36:18.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarroEletrico.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Carros\\CarroEletrico.cs",
+              "RelativeDocumentMoniker": "Heranca\\Carros\\CarroEletrico.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Carros\\CarroEletrico.cs",
+              "RelativeToolTip": "Heranca\\Carros\\CarroEletrico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:23:15.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Carros\\Carro.cs",
+              "RelativeDocumentMoniker": "Heranca\\Carros\\Carro.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Carros\\Carro.cs",
+              "RelativeToolTip": "Heranca\\Carros\\Carro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:11:54.079Z"
             }
           ]
         }

@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace POO
+namespace POO.Exercicios
 {
-    class Aluno
+    class Livro
     {
-        public string nome;
-        public int idade;
-        public double notaFinal;
+        public string titulo;
+        public string autor;
+        public int pagina;
     }
 }

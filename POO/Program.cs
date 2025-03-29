@@ -1,79 +1,4 @@
-﻿//// Listas
-////List<string> listasDeNomes = new List<string>();  //modo normal
-
-//List<string> listasDeNomes = new();  //Modo abreviado
-
-//listasDeNomes.Add("Daniel");
-//listasDeNomes.Add("Ward");
-//listasDeNomes.Add("leinaD");
-
-//foreach (var item in listasDeNomes)
-//{
-//    Console.WriteLine(item);
-//}
-
-//listasDeNomes.Remove("leinaD");
-//// POO - Programacao Orientada a Objetos
-
-//// Objetivo - Aproximar a programcao do mundo real
-//// Separar nossos sistemas em Partes Menores
-
-//// Classes e Objetos
-
-//// Classe - Definicao (item da vida real representada em codigo)
-//// Atributos (caracteriscas) - metodos (acoes)
-
-//// Objeto - Instancia de uma classe
-
-//// ferramentas - formas de trabalhar com POO
-
-//// Emcapsulamento e Heranca
-
-//// Emcapsulamento - Esconder comportamentos e atributos
-//// Evitar que os dados sejam acessados diretamente
-
-//// public - Esse atributo/metodo/classes podem ser acessadas por qualquer um.
-
-//// private - Esse atributo/metodo/classes so pode ser acessado dentro dele mesmo.
-
-//// Abstracao e polimorfismo
-
-//// protected/internal - Esse atributo/metodo/classes so pode ser acessado por ele mesmo e por sua classe pai
-
-
-//// Exemplo de POO
-//using POO;
-
-//Carro carro1 = new Carro();
-
-//// Para acessar informacoes do objeto eu uso o "."
-//carro1.modelo = "HB20";
-//carro1.marca = "hyundai";
-//carro1.anoFabricacao = 2024;
-//carro1.Andar();
-//carro1.Parar();
-
-
-//Carro carro2 = new Carro();
-//carro2.modelo = "Strada";
-//carro2.marca = "Fiat";
-//carro2.anoFabricacao = 2021;
-//carro2.Andar();
-//carro2.Parar();
-
-
-//Carro carro3 = new Carro();
-//carro3.modelo = "Classic";
-//carro3.marca = "GM";
-//carro3.anoFabricacao = 2013;
-//carro3.Andar();
-//carro3.Parar();
-
-//List<Carro> carros = new List<Carro>();
-//carros.Add(carro1); 
-//carros.Add(carro2);
-//carros.Add(carro3);
-//// Exercicios 25/03
+﻿//// Exercicios 25/03
 
 //// Exercicio 01 - Crie uma classe chamada `Livro` com os seguintes atributos:
 ////- `titulo` (tipo `string`)
@@ -185,3 +110,61 @@
 //Console.Write("Escreva a Largura: ");
 //retangulo.SetAltura(double.Parse(Console.ReadLine()));
 //Console.Write($"A area desse retangulo e: {retangulo.CalcularArea()}");
+
+//// Exercicio 04 - Conta Corrente e Conta Poupança
+////Utilizando a classe `ContaBancaria` criada no exercício 1, crie duas subclasses:
+////- `ContaCorrente`: possui um método `CobrarTaxa()` que reduz o saldo em um valor fixo (ex: 10).
+////- `ContaPoupanca`: possui um método `RenderJuros()`, que aumenta o saldo em 5%.
+////Crie instâncias de ambas as classes, faça depósitos e utilize seus métodos específicos.
+
+//using POO.Contas;
+
+//ContaBancaria conta = new ContaBancaria();
+//Console.WriteLine("Se sua conta for Corrente, Digite C, caso ela seja Poupanca, Digite P.");
+//string escolha = Console.ReadLine();
+//if (escolha == "C")
+//{ 
+//    conta = new ContaCorrente();
+//   if (conta is ContaCorrente cc)
+//    {
+//        cc.Depositar();
+//        Console.WriteLine("Por sua conta ser Corrente teve um rendimento de 5%");
+//        cc.CobraTaxa();
+//        cc.VerSaldo();
+//        Console.WriteLine("deseja realizar um saque? S/N");
+//        escolha = Console.ReadLine();
+//        if (escolha == "S")
+//        {
+//            cc.Sacar();
+//            cc.VerSaldo();
+//        }
+//        else if (escolha == "N")
+//        {
+//            Console.WriteLine("Tenha uma boa noite");
+//        }
+//    }
+//}
+//else if (escolha == "P")
+//{
+//    conta = new ContaPoupanca();
+//    if (conta is ContaPoupanca cp)
+//    {
+//        cp.Depositar();
+//        Console.WriteLine("Por sua conta ser Poupanca foi cobrada uma taxa de R$10,00");
+//        cp.RenderJuros();
+//        cp.VerSaldo();
+//        Console.WriteLine("deseja realizar um saque? S/N");
+//        escolha = Console.ReadLine();
+//        if (escolha == "S")
+//        {
+//            cp.Sacar();
+//            cp.VerSaldo();
+//        }
+//        else if (escolha == "N")
+//        {
+//            Console.WriteLine("Tenha uma boa noite");
+//        }
+//    }
+//}
+
+// Exercicio 04
