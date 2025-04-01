@@ -44,7 +44,9 @@
 // Polimorfismo - Um metoddo "com o mesmo nome" pode ter implementacao variavel
 // colocar o virtual na frente
 
-// Abstracao - 
+// Abstracao - Esconde um ou mais metodos (nao explica ele no comeco, so dps)
+
+// Interface = Contrato
 
 //// Exemplo de POO
 //using POO;

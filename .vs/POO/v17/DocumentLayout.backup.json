@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\heranca\\pessoas\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|solutionrelative:heranca\\pessoas\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F473DFD-6713-4A8F-AA39-CA8B67E1BB0B}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F473DFD-6713-4A8F-AA39-CA8B67E1BB0B}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\heranca\\pessoas\\fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|solutionrelative:heranca\\pessoas\\fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\poo\\exerciciosdepoo\\aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|solutionrelative:poo\\exerciciosdepoo\\aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\heranca\\pessoas\\juridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|solutionrelative:heranca\\pessoas\\juridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F473DFD-6713-4A8F-AA39-CA8B67E1BB0B}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\abstracao\\carromanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F473DFD-6713-4A8F-AA39-CA8B67E1BB0B}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\carromanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F473DFD-6713-4A8F-AA39-CA8B67E1BB0B}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\abstracao\\carroautomatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F473DFD-6713-4A8F-AA39-CA8B67E1BB0B}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\carroautomatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\heranca\\carros\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carros\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\heranca\\carros\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3834382C-8DE9-4DA9-BD9D-78792521677E}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carros\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{568212B8-4254-41D4-BB40-5FA277749758}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F473DFD-6713-4A8F-AA39-CA8B67E1BB0B}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\documents\\vs 2022\\poo\\abstracao\\icarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F473DFD-6713-4A8F-AA39-CA8B67E1BB0B}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\icarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,94 +34,68 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Program.cs",
-              "RelativeDocumentMoniker": "POO\\Program.cs",
-              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\Program.cs",
-              "RelativeToolTip": "POO\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Aula.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\ExerciciosdePOO\\Aula.cs",
+              "RelativeDocumentMoniker": "POO\\ExerciciosdePOO\\Aula.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\POO\\ExerciciosdePOO\\Aula.cs",
+              "RelativeToolTip": "POO\\ExerciciosdePOO\\Aula.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T22:35:12.024Z",
+              "WhenOpened": "2025-04-01T22:14:07.241Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Juridica.cs",
-              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Pessoas\\Juridica.cs",
-              "RelativeDocumentMoniker": "Heranca\\Pessoas\\Juridica.cs",
-              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Pessoas\\Juridica.cs",
-              "RelativeToolTip": "Heranca\\Pessoas\\Juridica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Title": "CarroManual.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Abstracao\\CarroManual.cs",
+              "RelativeDocumentMoniker": "Abstracao\\CarroManual.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Abstracao\\CarroManual.cs",
+              "RelativeToolTip": "Abstracao\\CarroManual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:47:36.955Z",
+              "WhenOpened": "2025-04-01T22:30:10.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Pessoas\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Heranca\\Pessoas\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Pessoas\\Pessoa.cs",
-              "RelativeToolTip": "Heranca\\Pessoas\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Abstracao\\Program.cs",
+              "RelativeDocumentMoniker": "Abstracao\\Program.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Abstracao\\Program.cs",
+              "RelativeToolTip": "Abstracao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:47:18.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Fisica.cs",
-              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Pessoas\\Fisica.cs",
-              "RelativeDocumentMoniker": "Heranca\\Pessoas\\Fisica.cs",
-              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Pessoas\\Fisica.cs",
-              "RelativeToolTip": "Heranca\\Pessoas\\Fisica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:46:46.325Z",
+              "WhenOpened": "2025-04-01T22:12:12.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Program.cs",
-              "RelativeDocumentMoniker": "Heranca\\Program.cs",
-              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Program.cs",
-              "RelativeToolTip": "Heranca\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAD8AAAAkAAAAAAAAAA==",
+              "Title": "CarroAutomatico.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Abstracao\\CarroAutomatico.cs",
+              "RelativeDocumentMoniker": "Abstracao\\CarroAutomatico.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Abstracao\\CarroAutomatico.cs",
+              "RelativeToolTip": "Abstracao\\CarroAutomatico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:36:18.945Z",
+              "WhenOpened": "2025-04-01T22:24:25.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CarroEletrico.cs",
-              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Carros\\CarroEletrico.cs",
-              "RelativeDocumentMoniker": "Heranca\\Carros\\CarroEletrico.cs",
-              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Carros\\CarroEletrico.cs",
-              "RelativeToolTip": "Heranca\\Carros\\CarroEletrico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Title": "ICarro.cs",
+              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Abstracao\\ICarro.cs",
+              "RelativeDocumentMoniker": "Abstracao\\ICarro.cs",
+              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Abstracao\\ICarro.cs",
+              "RelativeToolTip": "Abstracao\\ICarro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:23:15.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Carros\\Carro.cs",
-              "RelativeDocumentMoniker": "Heranca\\Carros\\Carro.cs",
-              "ToolTip": "C:\\Users\\Fic\\Documents\\VS 2022\\POO\\Heranca\\Carros\\Carro.cs",
-              "RelativeToolTip": "Heranca\\Carros\\Carro.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:11:54.079Z",
+              "WhenOpened": "2025-04-01T22:22:27.693Z",
               "EditorCaption": ""
             }
           ]
